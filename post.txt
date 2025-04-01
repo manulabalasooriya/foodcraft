@@ -20,3 +20,4 @@ Enhance post deletion confirmation
 Optimize post caching mechanism
 Add unit tests for post service
 Fix post image upload bug
+Improve post editing modal UI
