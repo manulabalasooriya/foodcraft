@@ -14,3 +14,4 @@ Post update 13
 Post update 14
 Post update 15
 Add post UI component
+Fix post image upload bug
