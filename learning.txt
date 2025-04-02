@@ -18,3 +18,4 @@ Optimize learning plan API calls
 Fix bug in progress tracker update
 Fix learning plan progress bar alignment
 Add unit tests for learning plan logic
+Improve learning plan date picker
