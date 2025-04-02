@@ -13,3 +13,4 @@ Learning update 12
 Add learning plan backend services
 Fix learning plan progress bar alignment
 Add unit tests for learning plan logic
+Improve learning plan date picker
