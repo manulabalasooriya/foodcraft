@@ -17,3 +17,4 @@ Optimize notification database indexes
 Fix notification sound alert bug
 Add notification dismissal animation
 Improve unread notification counter
+Enhance notification detail view
