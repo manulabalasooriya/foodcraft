@@ -10,3 +10,4 @@ Notification update 9
 Notification update 10
 Add realtime notification system
 Fix notification sound alert bug
+Add notification dismissal animation
