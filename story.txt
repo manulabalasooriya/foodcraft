@@ -9,3 +9,4 @@ Story update 8
 Story update 9
 Story update 10
 Implement story upload API
+Fix story video playback issue
