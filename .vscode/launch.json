@@ -1,0 +1,45 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "env": {
+        "SERVER_PORT": "5454",
+        "GOOGLE_CLIENT_ID": "your-google-client-id-here",
+        "GOOGLE_CLIENT_SECRET": "your-google-client-secret-here",
+        "DB_HOST": "localhost",
+        "DB_PORT": "3306",
+        "DB_NAME": "foodcraft",
+        "DB_USERNAME": "root",
+        "DB_PASSWORD": "yourpassword",
+        "JWT_SECRET": "your-very-long-secret-key",
+        "JWT_EXPIRATION": "86400000"
+      }
+    },
+    {
+      "type": "java",
+      "name": "FoodCraft",
+      "request": "launch",
+      "mainClass": "com.zos.FoodCraft",
+      "projectName": "FoodCraft",
+      "env": {
+        "SERVER_PORT": "5454",
+        "GOOGLE_CLIENT_ID": "your-google-client-id-here",
+        "GOOGLE_CLIENT_SECRET": "your-google-client-secret-here",
+        "DB_HOST": "localhost",
+        "DB_PORT": "3306",
+        "DB_NAME": "foodcraft",
+        "DB_USERNAME": "root",
+        "DB_PASSWORD": "yourpassword",
+        "JWT_SECRET": "your-very-long-secret-key",
+        "JWT_EXPIRATION": "86400000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[branch_manula_post_handling] Improve error handling by thilakshana-D on 2025-03-23T00:16:28
+[branch_manula_post_handling] Improve mobile responsiveness by manulabalasooriyafd on 2025-04-22T16:59:46
+[branch_manula_post_handling] Fix typo in controller by kavi357 on 2025-04-23T15:43:32
+[branch_manula_post_handling] Change UI button color by thilakshana-D on 2025-03-26T18:38:15
+[branch_manula_post_handling] Enhance data encryption by manulabalasooriyafd on 2025-04-12T05:33:04

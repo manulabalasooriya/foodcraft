@@ -1,0 +1,5 @@
+[branch_manula_post_handling] Add email verification step by thilakshana-D on 2025-03-20T05:14:50
+[branch_manula_post_handling] Add email verification step by sarasi-L on 2025-03-27T06:27:02
+[branch_manula_post_handling] Fix issue with learning plan dates by sarasi-L on 2025-04-17T14:02:32
+[branch_manula_post_handling] Implement user authentication by kavi357 on 2025-03-25T08:02:34
+[branch_manula_post_handling] Fix typo in controller by manulabalasooriyafd on 2025-04-23T19:26:36

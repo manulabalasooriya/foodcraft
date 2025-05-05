@@ -1,0 +1,5 @@
+[branch_manula_post_handling] Add email verification step by kavi357 on 2025-03-24T15:14:47
+[branch_manula_post_handling] Add multi-language support by manulabalasooriyafd on 2025-04-12T22:19:16
+[branch_manula_post_handling] Update story upload limits by thilakshana-D on 2025-04-23T17:12:07
+[branch_manula_post_handling] Add unit tests for notifications by sarasi-L on 2025-04-03T20:55:01
+[branch_manula_post_handling] Change UI button color by manulabalasooriyafd on 2025-04-07T18:01:21

@@ -1,0 +1,5 @@
+[branch_manula_post_handling] Improve mobile responsiveness by kavi357 on 2025-04-14T09:26:36
+[branch_manula_post_handling] Enhance data encryption by kavi357 on 2025-03-30T22:02:42
+[branch_manula_post_handling] Improve data validation by manulabalasooriyafd on 2025-04-05T05:16:14
+[branch_manula_post_handling] Enhance notification settings by thilakshana-D on 2025-04-14T04:10:11
+[branch_manula_post_handling] Add email verification step by manulabalasooriyafd on 2025-03-24T05:42:04
